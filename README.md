@@ -1,10 +1,16 @@
-### Hi there 👋
+### Hi there 👋 I'm Tina! 
 
-<!--
-**tinaafang/tinaafang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm currently studying Computer Science and Finance at the University of Waterloo. 
 
-Here are some ideas to get you started:
+I'm learning data science and software development.:zap: I'm passionate about combining these knowledge to create applications that improves our lives. 
 
+Favourite Languages: Python, R, JavaScript, SQL
+
+In my spare time, I enjoy listening to music, making tiramisu, and playing badminton! 
+
+Checkout my projects here :point_down:
+
+Check out my projects here!
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
