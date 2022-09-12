@@ -2,7 +2,7 @@
 
 I'm currently studying Computer Science and Finance at the University of Waterloo. 
 
-I'm learning data science and software development.:zap: I'm passionate about combining these knowledge to create applications that improves our lives. 
+I'm learning data science and software development:zap: I'm passionate about combining these knowledge to create applications that improves our lives. 
 
 Favourite Languages: Python, R, JavaScript, SQL
 
