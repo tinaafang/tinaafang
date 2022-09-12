@@ -6,6 +6,6 @@ I'm learning data science and software development. I'm passionate about combini
 
 Favourite Languages: Python, R, JavaScript, SQL
 
-In my spare time, I enjoy listening to music, playing badminton，and making tiramisu! :yum::yum:
+In my spare time, I enjoy listening to music, playing badminton, and making tiramisu! :yum::yum:
 
 Check out my projects here :point_down:
